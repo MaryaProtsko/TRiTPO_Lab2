@@ -90,22 +90,22 @@ nvim,gvim,vim,vi,nano - системы редактирования тексто
 
 ## 2.2 Интерфейс пользователя
 Пример доски.  
-![Окно входа в приложение](Mockup/Board Example.png)
+![Пример доски](Mockup/Board Example.png)
 
 Интерфейс добавления элемента.  
-![Окно входа в приложение](Mockup/Add new element.png)
+![добавление элемента](Mockup/Add new element.png)
 
 Интерфейс изменения элемента.  
-![Окно входа в приложение](Mockup/Change element.png)
+![изменение элемента](Mockup/Change element.png)
 
 Интерфейс отображаемых характреристик.  
-![Окно входа в приложение](Mockup/Changing of viewing propertis.png)
+![изменение отображения](Mockup/Changing of viewing propertis.png)
 
 Пример сортировки по одному из параметров.  
-![Окно входа в приложение](Mockup/Filtering.png)
+![сортировка](Mockup/Filtering.png)
 
 Пример выбора доски.  
-![Окно входа в приложение](Mockup/Selection of a different board.png )
+![выбор доски](Mockup/Selection of a different board.png )
 
 <a name="user_specifications"/>
 
