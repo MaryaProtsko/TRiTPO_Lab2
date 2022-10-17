@@ -105,7 +105,7 @@ nvim,gvim,vim,vi,nano - системы редактирования тексто
 ![сортировка](Mockup/Filtering.png)
 
 Пример выбора доски.  
-![выбор доски](Mockup/Selection of a different board.png )
+![выбор доски](Mockup/Selection of a different board.png)
 
 <a name="user_specifications"/>
 
