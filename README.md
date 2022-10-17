@@ -105,8 +105,7 @@ nvim,gvim,vim,vi,nano - системы редактирования тексто
 ![сортировка](Mockup/Filtering.png)
 
 Пример сортировки по одному из параметров.  
-![сортировка](Mockup/Filtering.png)
-
+![сортировка](Mockup/Add new element.png)
 Пример выбора доски.  
 ![выбор доски](Mockup/Selection of a different board.png)
 
